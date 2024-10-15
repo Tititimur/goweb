@@ -1,0 +1,42 @@
+body {
+	font-family: "monospace"
+}
+
+table, tr, td, th, div {
+	border-spacing: 0px;
+	padding: 0px;
+	margin: 0px;
+	white-space: nowrap;
+}
+
+table.stack {
+}
+
+table.layer {
+}
+
+td.stack {
+	border: 1px solid #ccc;
+	padding: 4px 2px;
+	vertical-align: top;
+}
+
+td.layer {
+	border: 1px solid #888;
+	padding: 4px 2px;
+}
+
+td.laytop {
+	border: 1px solid #000;
+	padding: 4px 2px;
+	background: #ccc;
+}
+
+td.select {
+	background: #88f;
+}
+
+a {
+	color: #008;
+	cursor: pointer;
+}
