@@ -1,6 +1,2 @@
 github.com/massarakhsh/lik v1.7.7 h1:+PgwWhFcBtKg/ev1NSVA3B8b0KVBO8LSte7soQOHTT8=
 github.com/massarakhsh/lik v1.7.7/go.mod h1:YMZONr8tOI1JMSABZLYRt3xZFsY/5C+CNC137fLbZVA=
-github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
-github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
-gitlab.video.htz.atmo.video/video/cdn/encoder/decklink v1.1.2 h1:TqLRglGGPFA6hD18A4W/0/fbMify2sUOOcdNFFNrUII=
-gitlab.video.htz.atmo.video/video/cdn/encoder/decklink v1.1.2/go.mod h1:WsiW4o1LdCz72DolvyBtMoUe5C3/45/Jbtd3gM5TrLE=
